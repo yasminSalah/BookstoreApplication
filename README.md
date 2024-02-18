@@ -28,7 +28,7 @@ The Online Bookstore Management System is a Spring Boot application that provide
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/bookstore.git
+git clone (https://github.com/yasminSalah/BookstoreApplication.git)
 
 2. Create a MySQL database and update the database configuration in `src/main/resources/application.properties` file:
 
