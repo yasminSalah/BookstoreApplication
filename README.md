@@ -36,21 +36,18 @@ spring.datasource.url=jdbc:mysql://localhost:3306/bookstore
 spring.datasource.username=your-username
 spring.datasource.password=your-password
 
-3. Build the project using Maven:
-4. 
+3. Build the project using Maven: 
 cd bookstore
 mvn clean install
 
 4. Run the application:
-
 java -jar target/bookstore-1.0.0.jar
-
-arduino
-Copy code
 
 5. Access the application using the following URL:
 
 http://localhost:8080
+
+
 ## API Endpoints
 
 ### Books
